@@ -1,0 +1,5 @@
+﻿  ConsoleApplication2.cpp
+G:\УрФУ\2 курс-РИЗ-200028у\Прикладное программирование(Чагаева О.Л.)\Лабораторные работы\3\ConsoleApplication2\ConsoleApplication2.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+G:\УрФУ\2 курс-РИЗ-200028у\Прикладное программирование(Чагаева О.Л.)\Лабораторные работы\3\ConsoleApplication2\ConsoleApplication2.cpp(9,12): warning C4101: imax: неиспользованная локальная переменная
+G:\УрФУ\2 курс-РИЗ-200028у\Прикладное программирование(Чагаева О.Л.)\Лабораторные работы\3\ConsoleApplication2\ConsoleApplication2.cpp(9,6): warning C4101: imin: неиспользованная локальная переменная
+  ConsoleApplication2.vcxproj -> G:\УрФУ\2 курс-РИЗ-200028у\Прикладное программирование(Чагаева О.Л.)\Лабораторные работы\3\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
