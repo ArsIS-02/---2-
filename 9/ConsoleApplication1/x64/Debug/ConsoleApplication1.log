@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+G:\УрФУ\2 курс-РИЗ-200028у\4 семестр\Прикладное программирование(Чагаева О.Л.)\Лабораторные работы\9\ConsoleApplication1\ConsoleApplication1.cpp(9,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+G:\УрФУ\2 курс-РИЗ-200028у\4 семестр\Прикладное программирование(Чагаева О.Л.)\Лабораторные работы\9\ConsoleApplication1\ConsoleApplication1.cpp(45): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Sort<int>(T [],size_t)"
+          with
+          [
+              T=int
+          ]
+  ConsoleApplication1.vcxproj -> G:\УрФУ\2 курс-РИЗ-200028у\4 семестр\Прикладное программирование(Чагаева О.Л.)\Лабораторные работы\9\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
